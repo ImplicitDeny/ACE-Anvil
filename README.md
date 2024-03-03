@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://github.com/acemod/ACE-Anvil/raw/master/extras/assets/logo/black/ACE-Anvil-Logo.png#gh-light-mode-only" width="480">
+    <img src="https://github.com/acemod/ACE-Anvil/raw/master/extras/assets/logo/white/ACE-Anvil-Logo.png#gh-dark-mode-only" width="480">
+</p>
+
 # ACE Anvil
 
 Open-source realism mod for Arma Reforger.
